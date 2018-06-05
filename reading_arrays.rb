@@ -19,11 +19,9 @@ def last_student_by_index
  puts STUDENT_NAMES [5]
 end
 
-STUDENT_NAMES
-
-# def first_student_by_method
-#   # Write a solution that returns the first student using the built in .first method
-# end
+def first_student_by_method
+  # Write a solution that returns the first student using the built in .first method
+end
 
 # def last_student_by_method
 #   # Write a solution that returns the first student using the built in .last method
