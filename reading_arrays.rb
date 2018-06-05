@@ -20,7 +20,7 @@ def last_student_by_index
 end
 
 def first_student_by_method
-  STUDENT_NAMES [0]
+  STUDENT_NAMES [-1]
 end
 
 # def last_student_by_method
